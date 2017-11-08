@@ -2,6 +2,7 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+[Wismar,Tom(@tomjwismar)]https://github.com/tomjwismar/liftoff-assignments)
 [Roig, Ben (@GITHUB_bgroig)](https://github.com/bgroig/liftoff-assignments)
 [Wills, Jordan (@jordo14)](https://github.com/jordo14/liftoff-assignments)
 [Burkiett, Joseph (@jtburkiett)](https://github.com/jtburkiett/liftoff-assigments)
